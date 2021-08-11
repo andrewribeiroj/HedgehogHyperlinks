@@ -1,0 +1,26 @@
+{
+  "background": {
+     "persistent": false,
+     "scripts": [ "copy.js" ]
+  },
+  "browser_action": {
+  },
+  "commands": {
+     "copy-as-plain": {
+        "description": "Copie o título da aba com o hyperlink para a área de transferência e pronto para colar e enviar em mensagens, RÁPIDO E EFICAZ!"
+     },
+     "copy-link": {
+        "description": "Copie o título da aba com o hyperlink para a área de transferência e pronto para colar e enviar em mensagens, RÁPIDO E EFICAZ!",
+        "suggested_key": {
+           "default": "Ctrl+Shift+C",
+           "mac": "Command+MacCtrl+C"
+        }
+     }
+  },
+  "description": "Copie o título da aba com o hyperlink para a área de transferência e pronto para colar e enviar em mensagens.",
+  "manifest_version": 2,
+  "name": "Hedgehog Hyperlinks",
+  "optional_permissions": [ "notifications" ],
+  "permissions": [ "clipboardWrite", "tabs", "contextMenus" ],
+  "version": "0.0.1"
+}
