@@ -2,6 +2,6 @@
 
 Just like the blue hedgehog you already know, this one is fast! ;)
 
-Copy the title of your current tab already with it's hyperlink to your clipboard, ready to paste in any message or conversation you need.
+Copy the title of your current tab already with its hyperlink to your clipboard, ready to paste in any message or conversation you need (which supports Hyperlinks).
 
 andrew.ribeiro@outlook.com
